@@ -1,7 +1,7 @@
 # Structure
-- move.ts: Implement your function here
-- move.test.ts: Implement your test
-- dev.ts: Import and execute your funciton
+- [move.ts](./move.ts): Implement your function here
+- [move.test.ts](./move.test.ts): Implement your test
+- [dev.ts](./dev.ts): Import and execute your funciton
 
 # Command
 - `yarn dev:file-explorer`: execute [dev.ts](./dev.ts) file
