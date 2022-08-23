@@ -3,6 +3,9 @@ interface Item {
   id: number
 }
 
-export default (item: Item) => {
+const move = (item: Item): number => {
   return item.id;
 };
+
+export default move;
+
